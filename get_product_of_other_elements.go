@@ -27,7 +27,7 @@ func products(data []int) []int {
 	}
 
 	// build suffix array
-	// //edb 5ef e4f87c61  trtrtrtr9bea91a998   9002642055c   0787d
+	// //edb 5ef e4f87c61  trtrtrtrgg9bea9fff1a998   9002642055c   0787d
 	return data
 }
 func main() {
