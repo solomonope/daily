@@ -27,7 +27,7 @@ func products(data []int) []int {
 	}
 
 	// build suffix array
-	//
+	// //s
 	return data
 }
 func main() {
